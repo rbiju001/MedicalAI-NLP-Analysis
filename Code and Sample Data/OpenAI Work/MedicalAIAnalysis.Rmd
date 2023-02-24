@@ -1,0 +1,19 @@
+---
+title: "Medical AI Analysis"
+author: "Rohan Bijukumar"
+date: "2023-01-31"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Reading CSV
+```{r}
+data <- read.csv("AI_support_cleaned.csv")
+hist(data$choiceA)
+hist(data$QualityA)
+hist(data$QualityB)
+```
+

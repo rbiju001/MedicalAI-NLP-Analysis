@@ -1,0 +1,412 @@
+﻿CONDITION,COND_AI,COND_GRADUATION,choiceA,QualityA,QualityB,Explanation,age,male,StartDate,EndDate,IPAddress,Duration
+1,0,0,1,5,4,"While I like the idea for a new doctor learning new treatments, I'd rather have my diagnosis done by a very experienced doctor.",48,0,12/15/22 8:35,12/15/22 8:39,,227
+1,0,0,1,5,6,He's got more experience than the younger doctor.,50,1,12/15/22 8:35,12/15/22 8:39,,244
+1,0,0,1,6,2,I went with the doctor that had more experience.,43,1,12/15/22 8:36,12/15/22 8:40,,253
+1,0,0,1,6,5,he has more experience,35,1,12/15/22 8:36,12/15/22 8:40,,267
+1,0,0,1,6,5,"I went with the older doctor who had more experience, because it made me feel like he knew more of what he was doing, when compared to the younger doctor. But I assume that both of them are equally qualified, however.",35,0,12/15/22 8:36,12/15/22 8:40,,225
+1,0,0,1,5,4,more experience is probably better in a health situation,35,1,12/15/22 8:36,12/15/22 8:40,,254
+1,0,0,1,6,6,I chose at randomly. I woudl choose both but I had to choose one.,34,1,12/15/22 8:37,12/15/22 8:41,,184
+1,0,0,0,5,6,"I felt that a younger doctor may be less likely to make mistakes, and may have a fresher mindset to interpret data.",38,0,12/15/22 8:37,12/15/22 8:41,,236
+1,0,0,0,5,5,I want someone young with fresh eyes that isn’t set in their ways,34,1,12/15/22 8:37,12/15/22 8:41,,274
+1,0,0,1,7,4,I will pick the doctor longer in practice due to the experience gathered over the years.,32,1,12/15/22 8:36,12/15/22 8:42,,348
+1,0,0,1,6,4,This doctor had more experience and I feel more qualified to assess my CVD risk,32,0,12/15/22 8:38,12/15/22 8:42,,207
+1,0,0,1,6,4,The doctor I chose has far more experience than the other. Therefore I would trust them to do a better diagnosis.,69,1,12/15/22 8:36,12/15/22 8:42,,348
+1,0,0,1,6,3,I went with experience which I think is a wise choice for this decision.,35,1,12/15/22 8:36,12/15/22 8:42,,354
+1,0,0,0,4,6,I think the younger doctor will be more informed about the latest state of the art testing and diagnosis breakthroughs.,57,1,12/15/22 8:36,12/15/22 8:42,,391
+1,0,0,1,5,4,Good chance the doctor has a lot more experience analyising the results seeing how he has 25 more years experience as a doctor,35,1,12/15/22 8:39,12/15/22 8:42,,212
+1,0,0,1,6,4,I chose the doctor with more experience.,37,1,12/15/22 8:37,12/15/22 8:43,,323
+1,0,0,0,6,6,I think a younger doctor is sometimes more akin to new practices and notices things an older doctor does not.,40,1,12/15/22 8:38,12/15/22 8:43,,290
+1,0,0,1,6,3,I believe that the older doctor with more experience is someone I would trust since he/she has more experience and would feel that is more reliable and knows what he/she is doing.,24,1,12/15/22 8:37,12/15/22 8:43,,342
+1,0,0,1,7,4,"Although the two doctors have similar accuracy, I feel like Doctor A is more likely to be correct and provide a more accurate diagnosis simply on the grounds that he is older and significantly more experienced.",34,1,12/15/22 8:38,12/15/22 8:43,,347
+1,0,0,1,7,6,i think the experienced doctor has seen more cases thus could have better judgement,28,1,12/15/22 8:36,12/15/22 8:43,,453
+1,0,0,1,6,4,I chose this doctor because he has more experience.,25,1,12/15/22 8:38,12/15/22 8:44,,321
+1,0,0,1,5,4,The doctor has more experience and is probably better suited to make this diagnosis.,26,0,12/15/22 8:40,12/15/22 8:44,,229
+1,0,0,1,6,4,I feel that the doctor with more experience in the field would give me a better chance of accurate results and information related to my swab.,32,0,12/15/22 8:41,12/15/22 8:44,,168
+1,0,0,1,6,2,"Having taken care of both of my parents, I have had dealt with many doctors, and experience counts tremendously. You benefit from the experienced doctor's learning curve rather than being his or her guinea pig.",51,1,12/15/22 8:37,12/15/22 8:44,,433
+1,0,0,0,4,5,I felt that the doctor with fewer years in practice may be less burned out.,49,0,12/15/22 8:39,12/15/22 8:44,,301
+1,0,0,1,6,4,The doctor has more years of experience is why I made this choice.,54,0,12/15/22 8:39,12/15/22 8:44,,332
+1,0,0,0,4,4,"I feel like the doctor with 30+ years of experience would be more arrogant in their thought process and decision making, and probably not care as much about making the right choice. This is based on experiences I've had with doctors of different ages.",34,0,12/15/22 8:40,12/15/22 8:44,,247
+1,0,0,1,6,4,Doctor A has more experience.,32,1,12/15/22 8:39,12/15/22 8:44,,307
+1,0,0,0,5,6, ,42,1,12/15/22 8:37,12/15/22 8:45,,442
+1,0,0,1,5,4,"With such limited info, I'd rather go with the physician who has more years in practice since he would have more experience with the test and would have had more opportunity to learn and receive feedback on how accurate he has been in the past.",41,1,12/15/22 8:39,12/15/22 8:45,,357
+1,0,0,1,5,3,I chose the doctor with more experience since that doctor is likely to be better.,29,1,12/15/22 8:41,12/15/22 8:45,,256
+1,0,0,1,5,5,I chose based on years of experience. I would feel more comfortable with a doctor who has been practicing for a long time and likely knows exactly what to look for.,64,0,12/15/22 8:40,12/15/22 8:45,,292
+1,0,0,1,7,5,The 61-year-old doctor who has more years of experience than the younger doctor. I would trust him more to properly analyze my results.,33,1,12/15/22 8:39,12/15/22 8:45,,404
+1,0,0,1,7,5,"I would choose the more experienced doctor. Experience is too often discounted today and matters a lot in terms of complex cases, identifying false positives and negatives, and generally having a trained mind when it comes to analysis.",42,1,12/15/22 8:41,12/15/22 8:46,,242
+1,0,0,1,6,4,"Even though they are similar in terms of accuracy, and it is possible that a ""newer"" doctor could be more up to date on modern technology for healthcare, I would still want to use a doctor that has more experience in general when it comes to CVD. Tests like these are potentially highly interpretable, and it would make sense to use a doctor that has seen more CVD cases. There are tons of variables, tons of things that can affect CVD in general, and a doctor with more experience SHOULD be more capable and using all of these different aspects surrounding the healthcare as ""pieces of the puzzle"", and then ultimately provide the better care - because they are more adept in the field.",38,1,12/15/22 8:40,12/15/22 8:46,,357
+1,0,0,0,6,5,"This doctor studied more recently, practiced these things more recently and probably is most aware of new technologies.",38,0,12/15/22 8:42,12/15/22 8:46,,221
+1,0,0,1,6,4,"The doctor I chose had 25 more years of experience.  Presumably he is much better at this job than the younger, less experienced doctor.",41,1,12/15/22 8:42,12/15/22 8:46,,263
+1,0,0,0,5,4,I choose this depends on the age and the experience.,26,1,12/15/22 8:39,12/15/22 8:46,,394
+1,0,0,1,6,6,I chose the doctor who has more experience because I thought he may be more accurate or have seen more cases so he may give me a better diagnosis.,39,1,12/15/22 8:35,12/15/22 8:47,,695
+1,0,0,0,5,5,"They are both correct 82-85% of the time, so it doesn't seem to matter. However, I believe the younger person can better learn from previous mistakes and improve that number than the older doctor.",36,0,12/15/22 8:41,12/15/22 8:47,,333
+1,0,0,1,6,4,"I want a doctor who can supplement the test results with as much experience dealing with cardiovascular disease as possible, so I chose the one with the most experience.",44,0,12/15/22 8:43,12/15/22 8:47,,264
+1,0,0,1,6,7,Because Doctor 1 age was 61 he have lot of practice to make a better service always believe in the doctor,29,0,12/15/22 8:38,12/15/22 8:47,,579
+1,0,0,1,6,5,This doctor is much more experienced and that matter to me. I have had good experiences with experienced doctors.,45,1,12/15/22 8:42,12/15/22 8:47,,314
+1,0,0,1,7,3,I chose the doctor with the most experience.,68,0,12/15/22 8:39,12/15/22 8:48,,544
+1,0,0,1,7,5,they have more expierience so i would like to use them more than the other,44,1,12/15/22 8:44,12/15/22 8:48,,226
+1,0,0,1,6,3,the person I chose has more experience overall.,71,1,12/15/22 8:44,12/15/22 8:48,,262
+1,0,0,0,4,5,Sometimes doctors that have been in practice for a long time don't keep themselves updated on new medical journals and issues. I would prefer to go with someone with more up to date knowledge.,45,.,12/15/22 8:43,12/15/22 8:48,,271
+1,0,0,1,6,4,this doctor has more experience and more training,39,0,12/15/22 8:40,12/15/22 8:48,,500
+1,0,0,1,7,5,Doctor A has more than enough experience in this field and they are better placed to do a more refined diagnosis.,30,0,12/15/22 8:43,12/15/22 8:48,,313
+1,0,0,1,4,4,I would prefer someone that has more experience in case my situation is strange there is a greater chance that they have seen and treated it before.,35,1,12/15/22 8:41,12/15/22 8:49,,464
+1,0,0,1,6,5,Experience wins the day here for me. My sense is that over the course of 31 years this doctor has a better sense of nuance when it comes to making a diagnosis.,65,1,12/15/22 8:43,12/15/22 8:49,,369
+1,0,0,0,6,6,The new doctor is probably more acquainted with genetic testing and novel methods and treatments than the likely archaic old doctor who might not be receptive to new methods.,26,1,12/15/22 8:45,12/15/22 8:50,,310
+1,0,0,1,5,4,The doctor has more experience in the field and may have more knowledge about CVD.,33,0,12/15/22 8:47,12/15/22 8:50,,196
+1,0,0,1,5,4,He has more years of experience as a doctor,54,0,12/15/22 8:40,12/15/22 8:50,,652
+1,0,0,1,5,4,The doctor who is 61 has more experience.,50,1,12/15/22 8:43,12/15/22 8:51,,493
+1,0,0,1,6,5,I believe the doctor with more experience will make me feel more confident in the data that is given to me based on my test.,37,1,12/15/22 8:45,12/15/22 8:51,,339
+1,0,0,0,6,5,I would prepare this choice.,33,0,12/15/22 8:40,12/15/22 8:52,,718
+1,0,0,1,6,5,I tend to choose doctors who are more experienced and who have been in their field for a longer period of time.,41,0,12/15/22 8:49,12/15/22 8:52,,169
+1,0,0,1,6,3,Doctor A has many more years of experience than Doctor B. Evaluations are made using prior cases to determine the likelihood of CVD. I would want the doctor with the most experience to make my evaluation.,60,1,12/15/22 8:46,12/15/22 8:53,,400
+1,0,0,1,6,6,The doctor has much more experience,41,1,12/15/22 8:49,12/15/22 8:53,,220
+1,0,0,0,2,6,I think the older doctor will be too rigid and not diagonose as well as a younger doctor who will make more effort to diagnose,35,.,12/15/22 8:43,12/15/22 8:53,,626
+1,0,0,1,6,4,He has many more years of experience in the medical field. He is older and probably wiser.,45,0,12/15/22 8:50,12/15/22 8:55,,257
+1,0,0,1,6,4,"Honestly, I would use either since they have the same success rate, but since I had to chose one, I selected the doctor with the most overall experience.",57,0,12/15/22 8:45,12/15/22 8:55,,562
+1,0,0,1,4,4,"Being an older person myself, I just felt like choosing the older doctor.  I feel they are both competent.",67,0,12/15/22 8:49,12/15/22 8:55,,383
+1,0,0,1,6,4,Older and more years of experience,43,1,12/15/22 8:51,12/15/22 8:57,,339
+1,0,0,0,4,5,I have cardio arterial disease and we treat the condition with a very low fat/oil diet (Esselstyn) and as little statins as I can get away with to keep ldl below 80. We think the newer treatments to halt and reverse CAD/CVD are preferred hence choosing the younger Dr.  Some things progress one funeral at a time.,63,1,12/15/22 8:51,12/15/22 8:59,,476
+1,0,0,1,6,5,I wanted the doctor with more experience.,50,0,12/15/22 8:55,12/15/22 8:59,,233
+1,0,0,0,4,4,It was just my gut feeling. I don't have any other way to really know who would be the better choice.,40,0,12/15/22 8:54,12/15/22 8:59,,350
+1,0,0,1,6,5,The doctor I work picked has 30 years of experience and I trust their judgement more.,42,0,12/15/22 8:52,12/15/22 9:00,,440
+1,0,0,1,6,5,More experience is usually better.,60,1,12/15/22 8:56,12/15/22 9:00,,207
+1,0,0,0,4,4,random pick,34,1,12/15/22 8:54,12/15/22 9:01,,401
+1,0,0,0,5,5,I feel like he's younger and more trained in newer technology and advances in the industry. He's a breath of fresh air.,36,0,12/15/22 8:56,12/15/22 9:01,,271
+1,0,0,0,3,6,"I chose the younger doctor from personal experiences, and from hearing stories from other parents and friends. I believe that younger doctors are more likely to agree about more with me, and that older doctors are stuck in there ways. Like herbal medicine, etc",31,1,12/15/22 8:56,12/15/22 9:02,,324
+1,0,0,1,4,4,I think I would be more comfortable with the older more experienced doctor looking at my results since they have a longer time in the medical field.,33,0,12/15/22 8:58,12/15/22 9:02,,225
+1,0,0,0,4,6,Since DNA is a newer technology I would rather have the doctor that was more recently educated.,45,1,12/15/22 8:44,12/15/22 9:06,,1278
+1,0,0,1,5,4,I'm assuming that the doctor with more years of experience will have more real world interactions to draw upon when performing their analysis.,39,1,12/15/22 9:00,12/15/22 9:06,,344
+1,0,0,1,7,5,I chose the Dr who has the most experience because I feel like they can offer the best care.,32,0,12/15/22 9:02,12/15/22 9:06,,216
+1,0,0,1,6,2,"The doctor I chose has more experience. Therefore, I'd trust him to be more accurate.",47,1,12/15/22 9:00,12/15/22 9:06,,332
+1,0,0,1,7,5,I would choose this doctor because they have more years of experience in the medical field so I think they might do a better job despite the statistics.,39,1,12/15/22 9:01,12/15/22 9:07,,327
+1,0,0,1,6,5,i would rather take the person who has more experience and knowledge,25,1,12/15/22 9:05,12/15/22 9:08,,171
+1,0,0,1,7,6,I would choose the doctor with more years of experience to read my test results.,55,0,12/15/22 9:03,12/15/22 9:09,,339
+1,0,0,1,6,6,Because I think the older doctor has more experience and can use that experience to maybe make a better judgement.,69,1,12/15/22 9:04,12/15/22 9:11,,422
+1,0,0,1,5,4,Hopefully has more experience over lifetime than the younger doctor.,58,1,12/15/22 9:06,12/15/22 9:14,,455
+1,0,0,1,6,3,The longer the doctor has been in practice the more he/she should know about all of the relevant factors involved in diagnosis and treatment.,52,0,12/15/22 9:10,12/15/22 9:14,,243
+1,0,0,0,4,6,I wanted the doctor that was younger and in my mind that makes him more likely to work harder,27,1,12/15/22 9:07,12/15/22 9:14,,420
+1,0,0,1,6,3,The doctor has been working for 31 year so he has much experience compared to the other doctor.,50,1,12/15/22 9:08,12/15/22 9:15,,399
+1,0,0,1,5,3,He's older so he's had more experience. He has seen it far times more than the other doctor.,34,0,12/15/22 9:08,12/15/22 9:15,,438
+1,0,0,1,6,4,This Dr. has a lot of experience and being I am 60 I would feel much more comfortable with the Dr I chose.,60,0,12/15/22 9:11,12/15/22 9:17,,341
+1,0,0,0,3,5,I think the younger person would be more update on newer happenings in medicine.,73,1,12/15/22 9:13,12/15/22 9:20,,426
+1,0,0,1,7,4,"The age means this doctor has more extperience in the field and has more clinical situations, diagonoses under their field of expertise and so can probably have a higher chance of a good diagnosis.",48,1,12/15/22 9:13,12/15/22 9:21,,463
+1,0,0,1,5,3,"More experience, and I don't trust millennials.",38,1,12/15/22 9:14,12/15/22 9:22,,433
+1,0,0,1,7,4,I chose Doctor A due to the years of practice,22,0,12/15/22 9:18,12/15/22 9:23,,281
+1,0,0,0,4,5,I chose the younger doctor because although he has less experience he still has ample amount of experience and being younger he is more apt to be cutting edge and able to pick things out of the results the other might not see.,51,0,12/15/22 9:20,12/15/22 9:25,,289
+1,0,0,1,7,2,Doctor A has more practice than Doctor B.,29,1,12/15/22 9:17,12/15/22 9:25,,483
+1,0,0,0,6,6,Someone with less experience will mean they have just finished medical school and be more open to new treatments and diagnosis',45,1,12/15/22 9:21,12/15/22 9:26,,266
+1,0,0,1,7,4,My doctor has years more experience!,59,1,12/15/22 9:16,12/15/22 9:28,,718
+1,0,0,0,4,5,I figure the younger doctor embraces new technology more than the older doctor. The young doctor is more open to changes in scientific advancements.,53,1,12/15/22 9:25,12/15/22 9:33,,490
+1,0,0,1,5,5,Chose the doctor with more experience,68,1,12/15/22 9:38,12/15/22 9:42,,275
+1,0,0,0,4,4,he is less burned out.  still has some enthusiasm left.,50,1,12/15/22 8:44,12/15/22 8:49,,273
+1,0,0,1,6,4,Doctor A has more experience. Experience means a lot in the medical field. It means Doctor A has seen an array of patients and diseases.,27,0,12/15/22 8:39,12/15/22 8:51,,700
+1,0,0,0,6,6,The younger doctor is not as far removed from medical school and training as an intern which indicates to me that he would be better at interpreting the CVD test results.,68,0,12/15/22 8:53,12/15/22 9:01,,477
+1,0,0,0,4,5,I think that this doctor may be more progressive in his thinking and might have a more forward thinking point of view.,58,0,12/15/22 8:46,12/15/22 9:04,,1073
+1,0,0,1,7,4,The Doctor A has more experiences in the clinical practice.,46,1,12/15/22 9:15,12/15/22 9:21,,353
+2,1,0,1,6,4,"This doctor has more experience overall, so I'd go with his expertise.",40,1,12/15/22 8:36,12/15/22 8:39,,221
+2,1,0,1,6,4,I'm sure that they're both good doctors but I would want the doctor with more experience.,22,0,12/15/22 8:35,12/15/22 8:40,,287
+2,1,0,1,5,4,More experienced,47,1,12/15/22 8:35,12/15/22 8:40,,291
+2,1,0,1,6,4,I believe the doctor's age would give him more experience.,61,0,12/15/22 8:36,12/15/22 8:41,,275
+2,1,0,0,3,5,Younger doctors tend to take their patients more seriously. Older doctors think they are always right and don't want to do any extra work.,36,0,12/15/22 8:36,12/15/22 8:41,,301
+2,1,0,0,6,7,I would rather work with a doctor that is going to be around a while,50,1,12/15/22 8:36,12/15/22 8:41,,314
+2,1,0,1,5,3,I'd like to think with 31 years of experience this doctor will have a better scope of what to do with my results.,32,0,12/15/22 8:38,12/15/22 8:41,,204
+2,1,0,1,5,3,This doctor has more experience.,27,1,12/15/22 8:36,12/15/22 8:41,,314
+2,1,0,1,6,5,I feel like they're still at an age where their cognitive abilities aren't really in decline and they have decades of experience. It just feels safer.,44,0,12/15/22 8:36,12/15/22 8:41,,342
+2,1,0,0,4,5,I feel like the combination of age and experience was the best choice,33,1,12/15/22 8:37,12/15/22 8:42,,298
+2,1,0,0,4,4,"I think younger doctors are more open to new knowledge and see things in a bigger pictures.  older doctors tend to be more rigid in their diagnosis and less ""up to date"" with info.",40,.,12/15/22 8:38,12/15/22 8:42,,256
+2,1,0,0,7,7,i just like the younger doctors but if I had to have the older one I would.,40,0,12/15/22 8:38,12/15/22 8:42,,257
+2,1,0,1,5,4,"The doctor has a lot more experience backing up their decision making; presumably if they're working with an AI assistant they're up to date on modern technologies, and aren't stuck in their ways, which would be my main concern with an older doctor",35,0,12/15/22 8:37,12/15/22 8:42,,289
+2,1,0,1,7,4,Based on experience level,27,1,12/15/22 8:37,12/15/22 8:42,,294
+2,1,0,1,7,5,He has more years of experience hence can make an accurate prediction,30,1,12/15/22 8:37,12/15/22 8:42,,305
+2,1,0,1,7,5,I went with the more experienced person.,39,1,12/15/22 8:37,12/15/22 8:43,,351
+2,1,0,1,5,5,I think experience is important when it comes to a picking a reliable doctor.,36,0,12/15/22 8:38,12/15/22 8:43,,275
+2,1,0,0,5,4,I believe the younger doctor is more likely to understand the workings of the AI recommendation.,29,1,12/15/22 8:37,12/15/22 8:43,,347
+2,1,0,1,5,5,I am more comfortable with older doctors.,50,1,12/15/22 8:37,12/15/22 8:43,,375
+2,1,0,1,6,3,"Since both doctors use AI, I would want the additional benefit of Doctor A's 31 years of experience in the field rather than the expertise of the younger doctor.",54,0,12/15/22 8:40,12/15/22 8:43,,233
+2,1,0,1,6,3,This doctor had more experience so I felt more comfortable given their age and experience.,31,0,12/15/22 8:38,12/15/22 8:44,,306
+2,1,0,1,7,5,I would want the older doctor who has been in practice a long time in conjunction with the AI newer technology.,46,0,12/15/22 8:36,12/15/22 8:44,,478
+2,1,0,1,6,5,I would choose the older doctor with more experience simply because they have been doing it longer and likely have more wisdom in their field.,28,1,12/15/22 8:40,12/15/22 8:44,,273
+2,1,0,1,6,4,"I would prefer the doctor that has more experience and is older in most cases to the doctor that has less experienced and is younger, even in terms of AI assisted technology as I feel the older doctor would have better experience and instincts to help them make the right diagnosis.",24,1,12/15/22 8:40,12/15/22 8:44,,227
+2,1,0,1,5,4,I prefer the one with a longer service record,40,1,12/15/22 8:39,12/15/22 8:44,,296
+2,1,0,1,5,4,"The older doctor has more experience, likely including experience diagnosing CVD risk without the help of AIs.",37,0,12/15/22 8:38,12/15/22 8:44,,364
+2,1,0,1,5,4,I think that the more experienced doctor will be better at combining wisdom with a/i.,70,0,12/15/22 8:40,12/15/22 8:45,,305
+2,1,0,0,5,6,Younger people might know more about tech/AI - have more holistic practice,33,0,12/15/22 8:36,12/15/22 8:45,,532
+2,1,0,1,6,4,I prefer a doctor that has more experience. Simple as that.,37,1,12/15/22 8:40,12/15/22 8:45,,294
+2,1,0,1,6,2,Older doctors went through college before grade inflation came to be.  I would never have a young doctor.,46,1,12/15/22 8:41,12/15/22 8:46,,277
+2,1,0,1,6,6,I have selected this based on doctor's experience because experience is very important,33,1,12/15/22 8:39,12/15/22 8:46,,403
+2,1,0,1,5,4,The doctor's extra years of experience should enable him to do a better job than the younger doctor.,66,1,12/15/22 8:42,12/15/22 8:46,,248
+2,1,0,1,6,6,i think he is accurate and can be used,43,1,12/15/22 8:36,12/15/22 8:46,,599
+2,1,0,1,3,3,The doctor has lot more experience than the other.,43,0,12/15/22 8:36,12/15/22 8:46,,626
+2,1,0,0,4,4,I think the training of the younger doctor is going to be more up to date based on length of time since medical school.,44,0,12/15/22 8:39,12/15/22 8:47,,454
+2,1,0,1,6,4,I chose the older doctor because he had more years of experience.,50,0,12/15/22 8:43,12/15/22 8:47,,248
+2,1,0,1,5,4,I would rather have someone who has more experience.,33,0,12/15/22 8:43,12/15/22 8:47,,259
+2,1,0,1,6,5,i feel like with all the rest are pretty much the same and the results are typically the same but his experiences is a big factor for me,34,1,12/15/22 8:43,12/15/22 8:47,,254
+2,1,0,1,5,4,I'd totally take the guy with many more years experience when it's a health related matter.,43,1,12/15/22 8:41,12/15/22 8:47,,365
+2,1,0,1,5,5,"i would want the dr with more experience, than the newer dr.",42,.,12/15/22 8:42,12/15/22 8:47,,304
+2,1,0,1,4,6,I prefer the Doctor who has a lot more experience,44,0,12/15/22 8:41,12/15/22 8:47,,404
+2,1,0,0,5,6,The choice is the among the beauty and surfaces.,33,1,12/15/22 8:41,12/15/22 8:48,,407
+2,1,0,1,5,4,I would prefer the older physician with more years of experience since this is a very important test for diagnosis.,64,0,12/15/22 8:42,12/15/22 8:48,,365
+2,1,0,1,7,4,"i feel comfortable with an experimented doctor, it makes me feel sure of my diagnosis and not terrified because an error",39,1,12/15/22 8:41,12/15/22 8:48,,403
+2,1,0,1,4,4,I would like the doctor with the higher number of years of experience. I believe this doctor had more time in the field and has therefore been able to refine their medical judgement skills.,37,0,12/15/22 8:44,12/15/22 8:48,,256
+2,1,0,1,5,4,"It only let me pick between the two, but there really isn't enough information about the doctors to know. I went with the doctor with more experience because that's all I can do at a face value option. The more experienced doctor may have done the job longer, but he may be stuck in his ways and not opento new theories where the newer doctor may be. I need more info",41,0,12/15/22 8:39,12/15/22 8:48,,573
+2,1,0,1,7,4,"I chose the option I did because the doctor has 31 years of experience, which I think would provide more high quality data that the other doctor who didn't have as much experience.  I think that would make the AI and the doctor I chose to have a higher quality of data.",29,1,12/15/22 8:37,12/15/22 8:48,,698
+2,1,0,1,6,4,I wanted someone with more experience.,43,1,12/15/22 8:44,12/15/22 8:49,,317
+2,1,0,1,6,5,I think that the additional years of practice can help make their assignments more accurate.,33,1,12/15/22 8:45,12/15/22 8:49,,231
+2,1,0,1,5,3,Years in practice means years experience means more heirs more lessons learned I am more trusting of the doctor with more experience,46,0,12/15/22 8:42,12/15/22 8:49,,390
+2,1,0,1,6,5,If I had the choice I would most likely pick the doctor with the most experience. I would question my decision because the doctor with the least experience does have more up to date training.,46,0,12/15/22 8:45,12/15/22 8:49,,272
+2,1,0,0,6,6,"Has been in school recently, younger. Likely to be",23,0,12/15/22 8:40,12/15/22 8:49,,572
+2,1,0,1,6,5,"I made this decision based on the fact this doctor had more experience, therefore, assuming he/she would have a more accurate outcome.",40,0,12/15/22 8:38,12/15/22 8:50,,713
+2,1,0,0,6,7,My choice was best knowledge and experience.,22,0,12/15/22 8:39,12/15/22 8:50,,659
+2,1,0,1,6,4,"I trust the doctor with more experience more, that's all.",30,0,12/15/22 8:45,12/15/22 8:50,,288
+2,1,0,1,6,5,This is correct choice information.,40,0,12/15/22 8:40,12/15/22 8:51,,680
+2,1,0,1,5,5,"I chose one doctor because I had to. In fact, I would would feel comfortable with either doctor treating me. If you put a gun to my head, I'd pick the older gentleman because he's had more experience, but in this case, I don't think it would matter.",71,1,12/15/22 8:40,12/15/22 8:51,,663
+2,1,0,1,4,4,I want the person with more experience and hopefully he gives me a truthful diagnosis.,37,1,12/15/22 8:47,12/15/22 8:52,,334
+2,1,0,1,6,4,"The choice was tough. I went with the more experienced practitioner. At the same time I wondered about how well they kept up to date on medicine. I would have also liked to know more about the younger physicians training. Although less ""experienced,"" they may be more up to date on issues with CVD.",67,1,12/15/22 8:39,12/15/22 8:53,,869
+2,1,0,1,6,5,Has more experience.,64,1,12/15/22 8:50,12/15/22 8:54,,240
+2,1,0,1,6,5,I feel like this doctor has more experience and is older and if you  combined his opinion with artificial intelligence then you would have a better chance for accurate work.,42,0,12/15/22 8:49,12/15/22 8:55,,355
+2,1,0,1,6,4,"I prefer a doctor with more experience. There are things that AI will not be able to catch, but an experienced physician will.",48,1,12/15/22 8:48,12/15/22 8:55,,426
+2,1,0,1,6,4,Doctor A has more years in practice and has more experience. They have seen more patients over the years. I would trust their judgement more.,44,0,12/15/22 8:50,12/15/22 8:55,,306
+2,1,0,1,6,4,I chose them for the years of experience they have.,32,0,12/15/22 8:50,12/15/22 8:56,,383
+2,1,0,1,5,4,The older doctor has more experience while still having access to AI as the other.,59,1,12/15/22 8:50,12/15/22 8:58,,433
+2,1,0,0,5,6,I feel like a younger doctor might not be as set in their ways and more likely to be aware of modern tech or maybe be better able to read and understand it.,49,1,12/15/22 8:52,12/15/22 8:58,,349
+2,1,0,0,4,5,I chose the younger doctor because sometimes (not always) the younger doctor is more up to date and familiar with newer technology and newer scientific findings. I feel like many times older doctors have an older way of looking at things.,40,0,12/15/22 8:52,12/15/22 8:58,,387
+2,1,0,1,5,4,"I want the doctor with more experience in the field. Doctors practice medicine, so the more practice the better.",40,1,12/15/22 8:55,12/15/22 8:59,,263
+2,1,0,0,6,6,The younger doctor is more likely to have knowledge of newer technology and developments.,29,0,12/15/22 8:56,12/15/22 8:59,,224
+2,1,0,1,1,1,I would chose the older one.,50,0,12/15/22 8:57,12/15/22 9:02,,306
+2,1,0,1,6,6,I prefer doctors with more experience,44,0,12/15/22 8:49,12/15/22 9:02,,797
+2,1,0,1,6,5,"I want the doctor with more years of experience, all else being equal. He would have a better perspective on the results of the testing.",41,1,12/15/22 8:58,12/15/22 9:03,,248
+2,1,0,1,6,5,"I would prefer a doctor who is older and has more experience in the field. While the AI algorithm has a high accuracy rate, a more experienced doctor reviewing its findings could likely more easily identify when it has misinterpreted the testing information.",30,0,12/15/22 8:58,12/15/22 9:03,,293
+2,1,0,1,6,4,"The doctor that I selected has a more extensive history in the profession, which would incline me to believe that they may have enhanced perspective or heightened wisdom regarding any observations that they make.",32,1,12/15/22 8:48,12/15/22 9:03,,901
+2,1,0,1,6,5, I have choosen th doctor who had more experience in the field. He has more knowledge with the topic.,46,1,12/15/22 8:53,12/15/22 9:03,,614
+2,1,0,1,6,4,"I would prefer the doctor with more years of experience, vs. the younger one with less years.",62,0,12/15/22 8:59,12/15/22 9:03,,265
+2,1,0,1,5,5,I like the doctor with the most experience.  I feel like it could be a better diagnosis.,39,1,12/15/22 8:43,12/15/22 8:50,,432
+2,1,0,1,6,4,"I went with Doctor A because he has been doing it for more years, is older, and would probably have a better understanding of the situation at hand.",28,1,12/15/22 9:02,12/15/22 9:06,,247
+2,1,0,1,6,5,I want the doctor with more experience,36,0,12/15/22 9:02,12/15/22 9:06,,232
+2,1,0,1,5,4,"Doctor A has more experience, and experience does weigh in to the results",54,1,12/15/22 9:01,12/15/22 9:07,,360
+2,1,0,1,6,5,I figure that a doctor with more experience has been exposed to many different types of samples and results which would make them better at detecting anomalies thus leading to better outcomes of diagnosis.,46,1,12/15/22 9:03,12/15/22 9:08,,265
+2,1,0,1,6,5,I trust the more experience doctor,47,.,12/15/22 8:59,12/15/22 9:09,,569
+2,1,0,1,6,4,I went with the one that has the most experience as I trust their judgment is more refined and correct.,34,0,12/15/22 9:05,12/15/22 9:09,,256
+2,1,0,0,4,4,This doctor is closer to my age so I feel like it is more likely they would understand things specific to me.  I felt this outweighed the difference in experience,33,1,12/15/22 9:06,12/15/22 9:11,,350
+2,1,0,1,6,6,"There really isn't a reason to pick one doctor over the other, but you made me pick one. Thus, I picked the one with more experience. But since they're AI supported, they're really equal.",33,0,12/15/22 9:08,12/15/22 9:12,,274
+2,1,0,1,7,4,This doctor has many more years of experience to rely upon when making a decision.  The other doctor only has 6 years.,56,0,12/15/22 9:06,12/15/22 9:13,,423
+2,1,0,1,4,4,"The doctor has more experience. With no other imformation, I would choose that one.",38,1,12/15/22 9:08,12/15/22 9:14,,340
+2,1,0,1,5,4,It seems like I would want as much experience as possible,37,1,12/15/22 9:09,12/15/22 9:14,,315
+2,1,0,1,7,4,I would feel more comfortable with the more experienced doctor.,45,1,12/15/22 9:10,12/15/22 9:15,,272
+2,1,0,1,6,5,I would choose the doctor with the most experience,31,1,12/15/22 9:15,12/15/22 9:19,,236
+2,1,0,1,7,5,I would always choose the doctor with the most experience.,54,1,12/15/22 9:13,12/15/22 9:19,,317
+2,1,0,1,5,3,I have to assume more years of experience translates into a larger breadth of knowledge on the subject.,43,0,12/15/22 9:15,12/15/22 9:19,,244
+2,1,0,0,4,5,That are a very choice of the thinking is my choices,35,0,12/15/22 9:11,12/15/22 9:20,,489
+2,1,0,1,4,6,Because of the count is very high. So the risk level is too much.,43,0,12/15/22 9:11,12/15/22 9:20,,558
+2,1,0,1,6,5,Experience means a lot when it comes to my health.  Knowing this doctor has probably got more experience in what to look for I would trust him a little more.,47,1,12/15/22 9:16,12/15/22 9:22,,316
+2,1,0,1,5,4,I choose the doctor with the most experience because they would have more past experience to base their judgment.,63,0,12/15/22 9:17,12/15/22 9:23,,385
+2,1,0,1,6,5,I think this dr. since he is older would have more experience and be able to provide better care.,67,0,12/15/22 9:19,12/15/22 9:24,,310
+2,1,0,1,6,4,I felt better using the doctor who had a lot more years of experience.,45,1,12/15/22 9:19,12/15/22 9:25,,386
+2,1,0,1,6,4,The doctor's experience should give him/her better insight.,53,0,12/15/22 9:19,12/15/22 9:26,,424
+2,1,0,1,6,6,More experience means fewer mistakes.,38,0,12/15/22 9:35,12/15/22 9:40,,303
+2,1,0,1,6,5,"The experienced doctor is jutst someone I always favor. Going by the info presented here, that's the best option.",41,1,12/15/22 8:44,12/15/22 9:49,,3884
+2,1,0,0,4,5,"There is a lot to be learned by older doctors who have been practicing for a while. HOWEVER, they also tend to ignore information that they aren't used to seeing, and not update how they work.",44,0,12/15/22 8:54,12/15/22 9:00,,379
+2,1,0,1,6,4,He has more years of experience and I felt that was the most relevant difference.,36,0,12/15/22 8:43,12/15/22 9:08,,1500
+3,0,1,0,5,4,I would like a younger doctor that is more up to date on medical advancement.,32,0,12/15/22 8:35,12/15/22 8:39,,229
+3,0,1,1,6,3,I would feel safer picking the doctor with the most experience.,62,0,12/15/22 8:36,12/15/22 8:40,,234
+3,0,1,1,7,6,I think the older doctor has more experience and thus I would feel more comfortable with his diagnosis because of that experience,49,1,12/15/22 8:36,12/15/22 8:41,,277
+3,0,1,1,4,3,"If this diagnosis is done by the personal judgment of the doctor, I want the doctor with more experience.",36,1,12/15/22 8:36,12/15/22 8:41,,306
+3,0,1,0,4,4,They might be more up to date on these things. Young doctors seems more willing to constantly learn.,44,1,12/15/22 8:37,12/15/22 8:41,,220
+3,0,1,0,3,6,The younger doctor is more likely to have newer data and better understanding of the data.,35,1,12/15/22 8:37,12/15/22 8:41,,238
+3,0,1,0,6,5,I want to choose the younger doctor because I think he is more able to make more sharp and coherent decisions,33,0,12/15/22 8:35,12/15/22 8:41,,355
+3,0,1,1,4,4,He is older and has more experience.,40,1,12/15/22 8:38,12/15/22 8:42,,254
+3,0,1,1,6,4,I simply prefer an older doctor who has more years of experience and would have seen much more than a younger doctor.,38,0,12/15/22 8:36,12/15/22 8:42,,335
+3,0,1,0,4,4,"I feel like since its a relatively new type of test, the younger doctor may be more familiar or used to it.",32,0,12/15/22 8:36,12/15/22 8:42,,383
+3,0,1,0,5,6,Young minds are sharper.,62,0,12/15/22 8:37,12/15/22 8:42,,329
+3,0,1,1,4,4,I don't believe I have enough information to feel one is better than the other so I just picked the first.,47,1,12/15/22 8:39,12/15/22 8:43,,221
+3,0,1,0,4,4,I leaned a little more toward the younger doctor because it is a newer test and this doctor has the greater chance of being up-to-date on recent advances.,65,1,12/15/22 8:38,12/15/22 8:43,,269
+3,0,1,1,4,4,This doctor has more experience and may be more proficient in making their diagnosis.,61,0,12/15/22 8:40,12/15/22 8:43,,210
+3,0,1,0,3,4,I feel like older doctors sometimes don't look at new advances in medicine and get stuck in their ways.,22,0,12/15/22 8:39,12/15/22 8:43,,251
+3,0,1,1,4,4,I would feel comfortable with either doctor; however I will choose the doctor who has more experience with CVD and analyzing test results.,61,0,12/15/22 8:39,12/15/22 8:43,,256
+3,0,1,1,5,4,"I prefer more experience when I am dealing with health professionals. Every additional experience a person ""collects"" assists with future decision-making; training is only the basis for evaluating your experiences",52,1,12/15/22 8:38,12/15/22 8:43,,326
+3,0,1,1,5,4,"I assume the older doctor would have more experience and be better able to provide recommendations for cardiovascular health. Younger doctors may have up-to-date knowledge, but they would likely be lacking in experience",36,1,12/15/22 8:36,12/15/22 8:44,,462
+3,0,1,1,6,3,I think he has more experience other guy is way too young for my liking.,25,1,12/15/22 8:40,12/15/22 8:44,,238
+3,0,1,1,6,4,He is older with more experience. I would trust this one more.,41,1,12/15/22 8:37,12/15/22 8:44,,393
+3,0,1,0,6,6,i feel they may be more aware of the latest med tech to analyze my results,42,1,12/15/22 8:39,12/15/22 8:44,,298
+3,0,1,0,4,4,I feel there is no difference between them since they are trained the same way. So I went with the younger as I can relate more.,30,1,12/15/22 8:38,12/15/22 8:44,,337
+3,0,1,1,6,4,The doctor has more experience and likely has more objectivity towards the new testing process. Less woke.,42,0,12/15/22 8:40,12/15/22 8:44,,257
+3,0,1,0,5,6,"since the younger doctor graduated more recently, they may have more knowledge of new data in the field",30,1,12/15/22 8:40,12/15/22 8:44,,232
+3,0,1,0,4,4,Older doctors are too often trained using models that focus on research related to men's health rather than a well rounded approach that takes women's health into account.,57,0,12/15/22 8:41,12/15/22 8:44,,230
+3,0,1,0,5,5,"I would be okay with either choice. But if forced to choose, it would be the younger doctor, who may have had residency training with more modern approaches than the older doctor.",43,0,12/15/22 8:40,12/15/22 8:45,,266
+3,0,1,0,3,5,I feel like the doctor that graduated more recently will be caught up with new practices.,37,0,12/15/22 8:39,12/15/22 8:45,,342
+3,0,1,1,7,5,I think experience comes from age hence my selection.,25,1,12/15/22 8:38,12/15/22 8:45,,389
+3,0,1,1,5,4,I belief someone of that age would be more careful in their decision making process.,30,1,12/15/22 8:37,12/15/22 8:45,,477
+3,0,1,1,6,2,I think experience is very helpful in diagnosis.,59,1,12/15/22 8:42,12/15/22 8:45,,207
+3,0,1,1,6,4,"I went with the older doctor because I felt they were the more experienced of the two. Also, I am older and felt like I might relate better with a physician who was closer to my own age.",66,1,12/15/22 8:38,12/15/22 8:45,,405
+3,0,1,1,6,5,I choose based on experience .,36,0,12/15/22 8:36,12/15/22 8:45,,564
+3,0,1,1,6,4,more experience,29,1,12/15/22 8:39,12/15/22 8:45,,357
+3,0,1,1,4,3,"The older doctor has more years of experience, they have seen 31 years worth of cases and compared to 6 of the younger doctor.  Along with quantity of cases, the older doctor has seen patients over a longer time, have a longer person interaction with patients to see how CVD progresses.",54,1,12/15/22 8:38,12/15/22 8:45,,441
+3,0,1,1,6,3,HE IS OLDER AND MORE EXPERIENCED,35,0,12/15/22 8:36,12/15/22 8:46,,566
+3,0,1,1,5,4,I would prefer a doctor with more experience in this case,30,0,12/15/22 8:42,12/15/22 8:46,,270
+3,0,1,1,6,4,"New doctors may be more well read on textbook doctoring, and all the journals, but older doctors have more real world experience, and that means more to me.",63,0,12/15/22 8:41,12/15/22 8:47,,335
+3,0,1,1,6,6,I would prefer the doctor with more experience.,58,0,12/15/22 8:40,12/15/22 8:47,,374
+3,0,1,1,7,1,I think the older doctor would be more likely to provide an accurate and fair assessment based on his years of experience and his level of connection with patients.  The young doctor is a product of the modern pharma-medical establishment system that lacks a heart or soul or compassion and sees everything through the lenses of their political agendas.,62,1,12/15/22 8:40,12/15/22 8:47,,404
+3,0,1,1,7,5,I think the doctor has a lot of experience and would be very helpful,37,0,12/15/22 8:36,12/15/22 8:47,,652
+3,0,1,0,4,4,I like younger doctors.,32,1,12/15/22 8:43,12/15/22 8:48,,250
+3,0,1,0,4,5,I feel like I can relate to a younger doctor better,31,1,12/15/22 8:43,12/15/22 8:48,,304
+3,0,1,0,5,4,"Completing training in 2016 just sounds more updated, and this physician is likely more familiar with the concept of genetic testing given it is a relatively recent/modern test.",28,0,12/15/22 8:44,12/15/22 8:48,,238
+3,0,1,1,5,3,I just feel that the older doctor has more experience and would do a better job with the diagnosis.,31,1,12/15/22 8:42,12/15/22 8:48,,353
+3,0,1,0,4,4,He may in in the heart of his career and would have energy and open mindness the older doctor may not have,56,1,12/15/22 8:44,12/15/22 8:48,,246
+3,0,1,1,6,5,Based on the doctor's experience.,36,1,12/15/22 8:38,12/15/22 8:49,,666
+3,0,1,1,5,5,Feel like the doctor with more years would give me a better result. Typically prefer someone with more knowledge.,43,1,12/15/22 8:42,12/15/22 8:49,,411
+3,0,1,1,6,4,I think the years of experience would be helpful in a more accurate diagnosis.,48,1,12/15/22 8:45,12/15/22 8:49,,248
+3,0,1,0,4,4,"I honestly don't have a preference, but I'm thinking maybe the younger doctor is better trained in more recent techniques, so a slight edge.",51,1,12/15/22 8:43,12/15/22 8:49,,331
+3,0,1,0,4,5,This doctor would have the more current information on the genetics of heart disease.,72,1,12/15/22 8:43,12/15/22 8:49,,377
+3,0,1,0,4,4,More recent and up-to-dat medical knowledge,23,0,12/15/22 8:45,12/15/22 8:49,,245
+3,0,1,1,7,4,I thought the doctor had more experience and his age showed wisdom compared to the other.,34,1,12/15/22 8:42,12/15/22 8:49,,464
+3,0,1,0,4,4,"I feel that the younger doctor would be more familiar with new technology and tests.  If this were an older test, I would perhaps want the experience of the older doctor.",41,1,12/15/22 8:46,12/15/22 8:50,,242
+3,0,1,1,5,3,I trust an older doctor with more experience in this case.,39,0,12/15/22 8:44,12/15/22 8:50,,331
+3,0,1,0,4,4,I feel like a younger doctor will be more up to date with research,45,0,12/15/22 8:43,12/15/22 8:50,,403
+3,0,1,1,6,3,Doctor A has more years of experience and time under his belt.,30,1,12/15/22 8:47,12/15/22 8:51,,235
+3,0,1,0,5,6,I feel like the younger doctor has more of a fresh take on the medical field and is more up to date with the latest technology and treatments.,39,0,12/15/22 8:42,12/15/22 8:51,,535
+3,0,1,0,4,4,younger can mean fresher views plus dna testing is fairly new,37,0,12/15/22 8:48,12/15/22 8:52,,225
+3,0,1,0,5,6,Since they graduated more recently I feel like they are up to date on the modern medicine and have been taught the latest things.,38,0,12/15/22 8:48,12/15/22 8:53,,280
+3,0,1,1,7,3,he has more experience,35,1,12/15/22 8:41,12/15/22 8:54,,747
+3,0,1,1,6,5,This doctor has more expereience,45,0,12/15/22 8:40,12/15/22 8:54,,842
+3,0,1,0,5,5,this doctor might be moire up to date on the latest studies and application of test results,51,1,12/15/22 8:49,12/15/22 8:54,,277
+3,0,1,1,5,3,"The older doctor has more experience, which I think is important. The younger doctor may have more up-to-date training, but I think the experience of the older doctor is more valuable. Ideally I would choose a 50-year-old doctor to get the benefit of experience and recent training.",53,1,12/15/22 8:49,12/15/22 8:55,,342
+3,0,1,1,6,5,I think the doctor with more years of experience combined with up-to-date training might be the best bet.,54,0,12/15/22 8:49,12/15/22 8:55,,361
+3,0,1,1,5,4,the doctor i chose has more experience than the other doctor so i would trust them a little more.,27,0,12/15/22 8:45,12/15/22 8:55,,587
+3,0,1,1,4,4,I chose the doctor who has more experience which may help to form a better prediction.,39,0,12/15/22 8:46,12/15/22 8:55,,546
+3,0,1,1,4,4,I chose the older doctor with more experience.,46,0,12/15/22 8:53,12/15/22 8:56,,204
+3,0,1,0,4,4,"I haven't had a good track record with older doctors.  Their bedside manner is not attractive to me.  Younger doctors have been more accommodating, therefor my preference.",45,1,12/15/22 8:51,12/15/22 8:56,,314
+3,0,1,1,4,3,I trust a doctor who has more years of experience,33,1,12/15/22 8:55,12/15/22 8:59,,250
+3,0,1,1,5,3,I think the older doctor has more years of experience,32,0,12/15/22 8:55,12/15/22 9:00,,262
+3,0,1,1,6,3,I want a more experien ed doctor doing the analysis,61,1,12/15/22 8:55,12/15/22 9:00,,286
+3,0,1,1,6,3,I believe Doctor A has been in practice for many years and have several previous data to refer to as he make his diagnosis.,52,1,12/15/22 8:51,12/15/22 9:00,,547
+3,0,1,1,4,4,"They use their previous experience to make a determination and since Doctor A has been practicing longer, I would choose them.",34,0,12/15/22 8:59,12/15/22 9:02,,199
+3,0,1,1,5,5,"Either would be fine, but Dr A has more experience.",50,0,12/15/22 8:58,12/15/22 9:02,,271
+3,0,1,1,6,5,"The 61-year-old doctor has probably seen many real-life cases of CVD. Doctors have to continually do continuing medical education so even though the doctor is older, he would be amply instructed regarding CVD testing.",54,0,12/15/22 8:57,12/15/22 9:03,,351
+3,0,1,0,5,6,Younger doctor will have more knowledge/training on DNA analysis compared to older doctor.,63,0,12/15/22 8:59,12/15/22 9:04,,289
+3,0,1,1,6,4,id rather pick the doctor with more experience,28,1,12/15/22 9:00,12/15/22 9:05,,298
+3,0,1,0,4,4,"This doctor is younger and might understand me and my concerns more, being that I am 27 years old myself.",27,0,12/15/22 8:58,12/15/22 9:06,,484
+3,0,1,1,6,5,Doctor A has more experience being a doctor,33,1,12/15/22 9:01,12/15/22 9:07,,341
+3,0,1,0,3,5,I want someone who has more up to date knowledge on current practices and new technology.,32,0,12/15/22 9:03,12/15/22 9:07,,227
+3,0,1,1,6,5,I chose the older one because they seem like they would have more experience.,31,1,12/15/22 9:02,12/15/22 9:08,,340
+3,0,1,1,7,6,The doctor is more sensitive experienced and has seen more as a doctor.,30,1,12/15/22 9:04,12/15/22 9:11,,404
+3,0,1,0,4,6,This doctor has been trained with recent information and has graduated recently. The other dr is older and even though they have been trained with the same information I feel the younger dr will be more accurate.,48,0,12/15/22 9:07,12/15/22 9:12,,289
+3,0,1,0,5,4,I choose only my preference.,47,0,12/15/22 9:05,12/15/22 9:12,,405
+3,0,1,1,6,6,The doctor that graduated in 2016 may not have enough experience to most accurately interpret the results of the CVD test.   I personally trust someone with more experience,44,1,12/15/22 9:08,12/15/22 9:12,,260
+3,0,1,1,6,5,I prefer the one with more experience as he's seen more.,33,1,12/15/22 9:09,12/15/22 9:13,,255
+3,0,1,1,6,4,"Older means more years doing this, correlates to more experience.",42,0,12/15/22 9:05,12/15/22 9:14,,523
+3,0,1,1,5,4,I like someone with more experience in the field.,34,1,12/15/22 9:09,12/15/22 9:14,,271
+3,0,1,0,5,5,I figure someone who has graduated more recently has likely received more up-to-date training and information.,27,1,12/15/22 9:14,12/15/22 9:17,,200
+3,0,1,1,4,4,"Doctor A is more experienced and has more likely performed more diagnosis.  All else being equal, that was the sole factor in my choice",54,1,12/15/22 9:11,12/15/22 9:19,,484
+3,0,1,1,5,6,this doctor has more experience and i trust him more,28,0,12/15/22 9:13,12/15/22 9:19,,349
+3,0,1,0,6,6,I feel like the younger person would stay more up to date on medical information.,28,0,12/15/22 9:15,12/15/22 9:21,,382
+3,0,1,0,3,6,I would choose the younger doctor because I feel that younger doctors have more immediate access to the most recent updates in the medical world.,52,0,12/15/22 9:16,12/15/22 9:21,,304
+3,0,1,1,6,4,"If given the choice, more than 82-85% of the time, I would choose a doctor that has been practicing medicine longer than six years.",40,0,12/15/22 9:12,12/15/22 9:22,,568
+3,0,1,1,5,4,I believe this doctor has more experience.,38,1,12/15/22 9:15,12/15/22 9:22,,381
+3,0,1,1,6,5,I went with the more experienced doctor.,40,1,12/15/22 9:18,12/15/22 9:22,,250
+3,0,1,1,4,3,I want the doctor that has more experience in seeing the outcome of these results.,64,0,12/15/22 9:17,12/15/22 9:23,,324
+3,0,1,0,6,6,The younger doctor may have a better understanding of the technology used & how to interpret the data.,54,0,12/15/22 9:19,12/15/22 9:24,,291
+3,0,1,0,4,5,"Being younger and graduating later means he has less experience, but the experience he does have is specific towards newer technologies, like this CVD testing. He also might be more alert and motivated to look at samples and evaluate them compared to an older and more experienced doctor.",25,.,12/15/22 9:22,12/15/22 9:26,,229
+3,0,1,1,6,5,"I feel there is more experience here, the doctor would probably know cases better than the other.",42,0,12/15/22 9:26,12/15/22 9:32,,323
+3,0,1,1,4,4,They have had more experience and are likely wiser.,33,1,12/15/22 9:33,12/15/22 9:37,,268
+3,0,1,1,5,4,"Doctor A has more years of experience, so I chose them.",34,1,12/15/22 8:38,12/15/22 8:44,,386
+3,0,1,1,6,4,he is older and more experienced,56,1,12/15/22 8:51,12/15/22 8:54,,231
+3,0,1,1,4,4,ill take the guy with more experience,45,1,12/15/22 8:53,12/15/22 9:06,,812
+3,0,1,0,4,6,"This is a newer technology, so I think the younger doctor would have more experience in using it.",43,1,12/15/22 9:08,12/15/22 9:11,,183
+3,0,1,1,6,5,I choose the older doctor because of his experience,38,0,12/15/22 9:04,12/15/22 9:17,,817
+4,1,1,1,5,4,I would choose the doctor with the most experience as he/she would have more knowledge regarding this.,49,0,12/15/22 8:36,12/15/22 8:39,,193
+4,1,1,1,6,6,"They have more years of experience. If all other conditions are the same, I would prefer someone who has so many more years doing this kind of thing.",35,0,12/15/22 8:36,12/15/22 8:40,,249
+4,1,1,1,5,5,I prefer a doctor with more years of experience.,33,.,12/15/22 8:35,12/15/22 8:40,,287
+4,1,1,0,5,6,It was mainly due to the year of graduation.  The younger doctor may have training that wasn't available for the older doctor.,59,1,12/15/22 8:36,12/15/22 8:41,,270
+4,1,1,1,6,5,That doc has had more experience.,65,0,12/15/22 8:37,12/15/22 8:41,,220
+4,1,1,1,5,4,they have more experience and wisdom as they are older. i feel better with an older doctor. um this is basically it.,27,1,12/15/22 8:39,12/15/22 8:42,,215
+4,1,1,0,4,6,The younger doctor would have more experience with technology and AI,54,0,12/15/22 8:36,12/15/22 8:42,,350
+4,1,1,0,4,5,The younger doctor is more likely to be competent.,34,1,12/15/22 8:38,12/15/22 8:42,,287
+4,1,1,1,6,5,I would choose the doctor that's been in the practice the longest and has had more experience.,48,1,12/15/22 8:37,12/15/22 8:43,,361
+4,1,1,1,5,4,"I'll take the extra years of experience, given all other factors being equal. The older doctor has seen more, including unusual cases.",55,0,12/15/22 8:38,12/15/22 8:43,,258
+4,1,1,1,7,5,I would probably go for the older doctor that has more experience and years under his belt.,46,0,12/15/22 8:39,12/15/22 8:43,,237
+4,1,1,0,4,4,"I feel like the closer to medical school, the more updated information was used to train you.  Also the older you get, the more your cognition suffers.",40,1,12/15/22 8:39,12/15/22 8:43,,256
+4,1,1,0,4,5,I would choose the younger doctor because they would be more trained on newer technology and updated medical facts. They would also see with a fresh set of eyes versus an older doctor who could be set in their ways.,39,0,12/15/22 8:38,12/15/22 8:43,,277
+4,1,1,1,6,5,I feel that the older doctor has more life experience and would be better at determining outcomes.,51,0,12/15/22 8:40,12/15/22 8:43,,205
+4,1,1,1,6,5,I prefer the more experienced doctor,62,1,12/15/22 8:40,12/15/22 8:43,,221
+4,1,1,1,4,6,Because it is a correct answer from the passage,34,0,12/15/22 8:36,12/15/22 8:43,,451
+4,1,1,1,6,5,I prefer someone with more years of experience that will rely on his own experience when he doesn't agree with technology.,57,0,12/15/22 8:37,12/15/22 8:43,,388
+4,1,1,1,5,6,I prefer an older doctor,30,1,12/15/22 8:37,12/15/22 8:44,,384
+4,1,1,0,4,6,I think they are more up to date with newest testing and advancements in medicine.,39,1,12/15/22 8:38,12/15/22 8:44,,315
+4,1,1,0,6,6,I think that the younger doctor probably has more familiarity working with the algorithm.,43,0,12/15/22 8:39,12/15/22 8:44,,285
+4,1,1,0,5,5,Genetic Testing and AI assistance are relatively new technologies. The younger Dr having graduated more recently may have more current training and knowledge regarding the newer technologies.,38,1,12/15/22 8:39,12/15/22 8:44,,288
+4,1,1,0,4,4,"I actually would be fine with either, but forced to choose, I generalized that a younger person may be better with technology.",37,1,12/15/22 8:40,12/15/22 8:44,,199
+4,1,1,0,5,5,A younger doctor might be better adept at working with AI.,30,1,12/15/22 8:40,12/15/22 8:44,,260
+4,1,1,1,6,3,I'd rather have the older doctor. They have more experience.,61,0,12/15/22 8:39,12/15/22 8:44,,300
+4,1,1,1,6,6,They seem to have more experience which I would slightly prefer if I had to choose between the two.,37,1,12/15/22 8:39,12/15/22 8:45,,320
+4,1,1,0,6,5,To me its a matter of preference. The only difference between the two is age but its more than that. I felt like the older person wouldn't be able to use the ai as easily. I jsut felt the younger person would be more hip to using it.,37,1,12/15/22 8:37,12/15/22 8:45,,518
+4,1,1,1,6,4,More experience. I have no other information to decide with. I assume more experiences means more cases and more accuracy. The AI had nothing to do with my decision. One doctor has been doing it longer. That is the only differentiating thing I could find.,42,1,12/15/22 8:41,12/15/22 8:46,,246
+4,1,1,0,4,4,I would feel more comfortable with a doctor around my own age in this situation.,37,1,12/15/22 8:39,12/15/22 8:46,,382
+4,1,1,0,3,6,Everyone is expecting the older person to have the problems. It is better to catch it in the younger person so that it can be solved so that they can get old,28,1,12/15/22 8:41,12/15/22 8:46,,278
+4,1,1,1,6,4,Generally speaking I would choose the doctor with more experience.,45,1,12/15/22 8:42,12/15/22 8:46,,241
+4,1,1,1,4,3,I would be weary about the AI and would want to choose an older doctor who has experience before the new age of technology and AI. I would feel more confident in a doctor who is older with more experience before AI.,26,0,12/15/22 8:40,12/15/22 8:46,,372
+4,1,1,1,6,5,I think that the 61-year-old doctor will have more experience.,41,1,12/15/22 8:42,12/15/22 8:46,,237
+4,1,1,0,5,5,It depends on the  age and experience matters. Then how they handle the AI.,26,1,12/15/22 8:40,12/15/22 8:46,,403
+4,1,1,1,6,5,I did my best of knowledge.,32,0,12/15/22 8:35,12/15/22 8:46,,667
+4,1,1,1,6,4,"I would prefer the doctor that has more experience. Since doctor A is older and graduated earlier, I would expect them to be more accurate due to their experience.",47,0,12/15/22 8:42,12/15/22 8:47,,294
+4,1,1,1,7,7,I rather go with experience.,30,1,12/15/22 8:40,12/15/22 8:48,,451
+4,1,1,1,6,5,He has more experience so i trust him more.,28,0,12/15/22 8:44,12/15/22 8:48,,260
+4,1,1,1,7,6,"The doctor I chose has been doing this for much longer, and has more experience.",78,1,12/15/22 8:43,12/15/22 8:48,,280
+4,1,1,0,5,5,I think since they recently graduated and they are younger they could have a better chance o relating to patients. Also can use technology more efficiently cause of age.,37,0,12/15/22 8:42,12/15/22 8:48,,391
+4,1,1,1,3,6,I trust it will be more effective.,31,1,12/15/22 8:41,12/15/22 8:48,,423
+4,1,1,1,6,4,I would want a doctor with experience to allow them to read the results of the A.I. analysis with their own experiences applied to my diagnosis.,47,1,12/15/22 8:43,12/15/22 8:48,,302
+4,1,1,1,5,3,Because he has more experience.,51,1,12/15/22 8:43,12/15/22 8:49,,323
+4,1,1,1,7,3,The older doctor has 25 more years of experience which makes him the preferable choice.,37,1,12/15/22 8:38,12/15/22 8:49,,671
+4,1,1,1,6,4,I would prefer the experienced doctor over the more novice one.,27,1,12/15/22 8:42,12/15/22 8:49,,395
+4,1,1,0,5,5,Closer to my age,39,1,12/15/22 8:38,12/15/22 8:49,,664
+4,1,1,0,3,5,I don't want a old doctor that doesn't know as much about new technology. I want someone younger that is more up to date with medical procedures.,43,0,12/15/22 8:44,12/15/22 8:50,,358
+4,1,1,1,6,4,I would prefer the doctor with more experience so I chose the older one.,47,1,12/15/22 8:46,12/15/22 8:50,,250
+4,1,1,1,7,6,More years of experience and worked longer,34,0,12/15/22 8:44,12/15/22 8:50,,339
+4,1,1,0,4,4,I would want someone closer to my age.,38,0,12/15/22 8:37,12/15/22 8:50,,792
+4,1,1,0,4,4,"I feel that while older doctors have more years of experience, younger doctors are more up to date on the newest information and techniques that are begin taught while they go through medical school.  They are fresher and have more energy to put towards patients.",42,0,12/15/22 8:45,12/15/22 8:51,,321
+4,1,1,0,3,6,I believe that a younger person would work better with the AI.,34,.,12/15/22 8:41,12/15/22 8:52,,650
+4,1,1,1,6,5,I think the 61 year old doctor has more medical experience with CVD diagnosis and treatment.,63,1,12/15/22 8:46,12/15/22 8:53,,382
+4,1,1,1,6,6,more experience.,38,0,12/15/22 8:44,12/15/22 8:53,,549
+4,1,1,0,4,4,Ther knowledge set is likely to be more current.,63,0,12/15/22 8:49,12/15/22 8:53,,245
+4,1,1,1,6,5,I trust older doctors that have more experience than those that haven't been a doctor only for 10 years or less,55,1,12/15/22 8:48,12/15/22 8:54,,333
+4,1,1,1,6,5,The doctor had much more experience and I would feel more comfortable with them.,36,1,12/15/22 8:49,12/15/22 8:55,,319
+4,1,1,1,5,3,The older doctor has more experience,50,0,12/15/22 8:36,12/15/22 8:55,,1170
+4,1,1,0,5,5,I went with youth here and most recent time spent in education as it should be a more updated knowledge set.,28,1,12/15/22 8:49,12/15/22 8:55,,357
+4,1,1,0,4,4,"While the older doctor is the same age as I am and more experienced, I feel the younger doctor will be more receptive to the AI assistance and not push back, even subconsciously, with the AI recommendation unless warranted.",61,0,12/15/22 8:52,12/15/22 8:56,,253
+4,1,1,1,5,4,"When it comes to medical treatment, I usually gravitate towards the older doctor.  I do believe experience is very valuable in the medical world.",47,1,12/15/22 8:52,12/15/22 8:57,,284
+4,1,1,1,7,6,More years in practice = more experience. I want someone who has seen a lot of different things.,30,0,12/15/22 8:53,12/15/22 8:58,,275
+4,1,1,1,6,3,I feel that a doctor that is older would have a better depth of experience while doing the testing.,52,1,12/15/22 8:55,12/15/22 8:59,,222
+4,1,1,0,7,7,Either one would have been fine for me.  My current doctor is around 36 years old and he is excellent.,46,1,12/15/22 8:55,12/15/22 9:00,,302
+4,1,1,1,6,4,The 61 year old doctor would have decades more experience.,37,0,12/15/22 8:57,12/15/22 9:00,,218
+4,1,1,1,4,3,I prefer a doctor with more experience,30,0,12/15/22 8:58,12/15/22 9:02,,230
+4,1,1,1,5,4,This doctor has more experience because he or she is so much older than the other doctor. I prefer doctors who have been practicing for a while to newer doctors.,41,0,12/15/22 9:00,12/15/22 9:03,,215
+4,1,1,1,5,4,"The doctor with more experience has a larger personal data set to draw on, potentially improving performance.",39,1,12/15/22 9:02,12/15/22 9:06,,222
+4,1,1,1,5,5,"Although the younger doctor has more recent medical schooling, I think the older doctor with more experience probably has more experience with diseases and possible various ways it could present, or unusual risk factors, or often-overlooked symptoms. So I think I would choose the doctor who has seen more patients throughout their career.",47,0,12/15/22 9:00,12/15/22 9:06,,312
+4,1,1,1,4,4,I think the older dr has more experience with age.,55,0,12/15/22 9:02,12/15/22 9:06,,274
+4,1,1,0,4,4,I would like to go with the younger doctor because I feel like they would be more up to date on the new technology despite both doctors going through the same training.,28,0,12/15/22 9:01,12/15/22 9:07,,320
+4,1,1,0,5,6,I would prefer someone who is younger as they tend to be more up to date on the latest practices and may understand AI better.,35,0,12/15/22 9:03,12/15/22 9:08,,246
+4,1,1,1,5,4,This doctor has a longer book of work and I would expect them to be able to give a better diagnosis.,51,1,12/15/22 9:04,12/15/22 9:08,,257
+4,1,1,1,6,5,"I chose the older doctor because I value the wealth of experience. It's possible that the younger doctor may be more familiar with technology, but that does not necessarily make the younger doctor's decision better.",35,1,12/15/22 8:59,12/15/22 9:08,,552
+4,1,1,0,5,6,I think a younger doctor would be more on the cutting edge of technology.,47,0,12/15/22 9:05,12/15/22 9:10,,285
+4,1,1,0,5,6,"I think the younger doctor will have better experience with using AI technology. I don't think the older doctor will be that experienced with technology. I think he might struggle analyzing AI data. I think the older doctor is too traditional and might use too much ""gut"" reasoning, than solid facts.",38,0,12/15/22 8:58,12/15/22 9:10,,734
+4,1,1,1,4,4,The more experienced the better in my opinion.,49,0,12/15/22 9:06,12/15/22 9:12,,384
+4,1,1,0,4,5,That one is younger so would probably be better with technology,40,0,12/15/22 9:08,12/15/22 9:12,,265
+4,1,1,1,7,6,He has more experience and will be more accurate in my opinion,35,0,12/15/22 9:08,12/15/22 9:14,,372
+4,1,1,1,6,6,Have more experience based on his grad year,55,1,12/15/22 9:06,12/15/22 9:14,,489
+4,1,1,1,6,6,I wanted the doctor with more experience since everything else was mostly the same.,44,1,12/15/22 9:10,12/15/22 9:14,,248
+4,1,1,1,6,4,I would rather choose the more experienced doctor.,41,0,12/15/22 9:12,12/15/22 9:16,,268
+4,1,1,0,5,4,I thought that the younger doctor may be able to work better with the AI assistance than the older one even though they have less overall experience.,31,1,12/15/22 9:13,12/15/22 9:18,,304
+4,1,1,0,5,6,I think the newer doctor will be able to understand newer technology much easier than an older doctor.,47,1,12/15/22 9:16,12/15/22 9:21,,302
+4,1,1,0,6,6,The younger doctor may be more knowledgeable in using the technology provided by the AI.,67,0,12/15/22 9:11,12/15/22 9:21,,585
+4,1,1,1,5,3,There is some wisdom in age. I'm sure the 61 year old doctor is a little more experienced.,44,1,12/15/22 9:17,12/15/22 9:21,,211
+4,1,1,1,5,4,"They are older. So, they should be more experienced.",52,1,12/15/22 9:15,12/15/22 9:21,,360
+4,1,1,0,6,6,I feel that the younger doctor would be more adaptable to new technology.,42,1,12/15/22 9:13,12/15/22 9:21,,459
+4,1,1,1,5,4,"I thought they would have more experience, as they were older.",27,0,12/15/22 9:18,12/15/22 9:22,,265
+4,1,1,1,2,4,I feel the older doctor has more experience.,42,0,12/15/22 9:19,12/15/22 9:23,,219
+4,1,1,1,7,6,Because the doctor has more experience in the field of study and test.,31,0,12/15/22 9:16,12/15/22 9:25,,528
+4,1,1,0,5,6,The younger doctor will be more up to date on current procedures,29,0,12/15/22 9:24,12/15/22 9:29,,282
+4,1,1,0,4,6,"I prefer doctors to be following regulations, scientific research, and treatment that is current with modern society because the world is constantly changing. I trust younger, but also experienced doctors to integrate this into decision-making.",21,0,12/15/22 9:24,12/15/22 9:29,,326
+4,1,1,1,6,5,I think an older doctor has more experience and therefore would likely make a more accurate diagnosis.,45,0,12/15/22 9:24,12/15/22 9:30,,387
+4,1,1,0,5,6,I would pick the younger doctor as science is constantly changing. The younger doctor would have graduated more recently and might have more knowledge than the other.,36,0,12/15/22 8:38,12/15/22 8:43,,307
+4,1,1,1,6,5,Been in practice much longer so has more knowledge through life experiences besides the educational background.,42,0,12/15/22 8:37,12/15/22 8:45,,430
+4,1,1,1,6,5,The older doctor is more experienced.,44,0,12/15/22 8:36,12/15/22 8:56,,1228
+4,1,1,1,4,4,"Doctor A has more experience than Dr B. In the absence of any other data, I am assuming they will have been exposed to more CVS data and have a more refined medical intuition,",53,0,12/15/22 8:54,12/15/22 9:01,,473
+4,1,1,0,6,6,Getting out of school more recently may give this doctor a little more up to date information.,60,0,12/15/22 8:47,12/15/22 9:13,,1555
+4,1,1,1,6,7,I feel very happy,54,0,12/15/22 9:09,12/15/22 9:22,,789

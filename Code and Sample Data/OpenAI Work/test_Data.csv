@@ -1,0 +1,16 @@
+﻿CONDITION,COND_AI,COND_GRADUATION,choiceA,QualityA,QualityB,Explanation,age,male,StartDate,EndDate,IPAddress,Duration
+1,0,0,1,5,4,"While I like the idea for a new doctor learning new treatments, I'd rather have my diagnosis done by a very experienced doctor.",48,0,12/15/22 8:35,12/15/22 8:39,,227
+1,0,0,1,5,6,He's got more experience than the younger doctor.,50,1,12/15/22 8:35,12/15/22 8:39,,244
+1,0,0,1,6,2,I went with the doctor that had more experience.,43,1,12/15/22 8:36,12/15/22 8:40,,253
+1,0,0,1,6,5,he has more experience,35,1,12/15/22 8:36,12/15/22 8:40,,267
+1,0,0,1,6,5,"I went with the older doctor who had more experience, because it made me feel like he knew more of what he was doing, when compared to the younger doctor. But I assume that both of them are equally qualified, however.",35,0,12/15/22 8:36,12/15/22 8:40,,225
+1,0,0,1,5,4,more experience is probably better in a health situation,35,1,12/15/22 8:36,12/15/22 8:40,,254
+1,0,0,1,6,6,I chose at randomly. I woudl choose both but I had to choose one.,34,1,12/15/22 8:37,12/15/22 8:41,,184
+1,0,0,0,5,6,"I felt that a younger doctor may be less likely to make mistakes, and may have a fresher mindset to interpret data.",38,0,12/15/22 8:37,12/15/22 8:41,,236
+1,0,0,0,5,5,I want someone young with fresh eyes that isn’t set in their ways,34,1,12/15/22 8:37,12/15/22 8:41,,274
+1,0,0,1,7,4,I will pick the doctor longer in practice due to the experience gathered over the years.,32,1,12/15/22 8:36,12/15/22 8:42,,348
+1,0,0,1,6,4,This doctor had more experience and I feel more qualified to assess my CVD risk,32,0,12/15/22 8:38,12/15/22 8:42,,207
+1,0,0,1,6,4,The doctor I chose has far more experience than the other. Therefore I would trust them to do a better diagnosis.,69,1,12/15/22 8:36,12/15/22 8:42,,348
+1,0,0,1,6,3,I went with experience which I think is a wise choice for this decision.,35,1,12/15/22 8:36,12/15/22 8:42,,354
+1,0,0,0,4,6,I think the younger doctor will be more informed about the latest state of the art testing and diagnosis breakthroughs.,57,1,12/15/22 8:36,12/15/22 8:42,,391
+1,0,0,1,5,4,Good chance the doctor has a lot more experience analyising the results seeing how he has 25 more years experience as a doctor,35,1,12/15/22 8:39,12/15/22 8:42,,212
